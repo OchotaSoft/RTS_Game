@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{184D7D56-4029-1E80-93F0-638C975D2D14}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WorkingTitleRTS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
